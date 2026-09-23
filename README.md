@@ -1,0 +1,10 @@
+Matlab Data structure:
+certain;
+gamble_1;
+gamble_2;
+choice; 1→certain;2→gamble
+outcome;
+rawhappy; range from 0 (very unhappy) to 1 (very happy)
+type；1->mix, 2->gain,3->loss
+
+For all_4_datasets.xlsx, dataset 4 refers to clincial dataset 
